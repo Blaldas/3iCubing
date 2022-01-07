@@ -1,5 +1,6 @@
 # 3iCubing
-This repository contains the code used when developed and studying the 3iCubing algorithm.
+
+This repository contains the code used when developing and studying the 3iCubing/M3iCubing algorithm.
 
 Other links to related algorithms are listed bellow:
 [M3iCubing](https://github.com/Blaldas/M3iCubing)
